@@ -1,0 +1,30 @@
+body{
+    background-image: url(barroco.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.titulo{
+    background-color: yellow;
+}
+
+.presentacion{
+    background-color: bisque;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.rosado{
+    background-color: rgb(230, 36, 188);
+}
+
+.morado{
+    background-color: purple;
+}
+
+.celeste{
+    background-color: aqua;
+}
